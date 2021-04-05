@@ -1,0 +1,10 @@
+ 
+flask
+numpy
+collections
+pandas
+seaborn
+matplotlib
+scikit-surprise
+sklearn
+random
