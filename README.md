@@ -2,7 +2,7 @@
 
 ## Movie Recommender System
 
-This project was completed in week 10 of the Data Science Bootcamp at Spiced Academy in Berlin, together with [Pietro Passarella](https://github.com/PIETRO-ing).
+This project was completed in week 10 of the Data Science Bootcamp at Spiced Academy in Berlin, together with [Murat Ardag](https://github.com/mmuratardag).
 
 We built a movie recommender with a web interface utilizing the [small movielens dataset](https://grouplens.org/datasets/movielens/), which includes a collection of 9742 movies previously rated by 610 users.
 
